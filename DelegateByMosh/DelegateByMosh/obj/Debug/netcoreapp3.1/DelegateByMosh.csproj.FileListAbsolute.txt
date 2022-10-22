@@ -1,0 +1,14 @@
+D:\C#9\DelegateByMosh\DelegateByMosh\bin\Debug\netcoreapp3.1\DelegateByMosh.exe
+D:\C#9\DelegateByMosh\DelegateByMosh\bin\Debug\netcoreapp3.1\DelegateByMosh.deps.json
+D:\C#9\DelegateByMosh\DelegateByMosh\bin\Debug\netcoreapp3.1\DelegateByMosh.runtimeconfig.json
+D:\C#9\DelegateByMosh\DelegateByMosh\bin\Debug\netcoreapp3.1\DelegateByMosh.runtimeconfig.dev.json
+D:\C#9\DelegateByMosh\DelegateByMosh\bin\Debug\netcoreapp3.1\DelegateByMosh.dll
+D:\C#9\DelegateByMosh\DelegateByMosh\bin\Debug\netcoreapp3.1\DelegateByMosh.pdb
+D:\C#9\DelegateByMosh\DelegateByMosh\obj\Debug\netcoreapp3.1\DelegateByMosh.csproj.AssemblyReference.cache
+D:\C#9\DelegateByMosh\DelegateByMosh\obj\Debug\netcoreapp3.1\DelegateByMosh.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#9\DelegateByMosh\DelegateByMosh\obj\Debug\netcoreapp3.1\DelegateByMosh.AssemblyInfoInputs.cache
+D:\C#9\DelegateByMosh\DelegateByMosh\obj\Debug\netcoreapp3.1\DelegateByMosh.AssemblyInfo.cs
+D:\C#9\DelegateByMosh\DelegateByMosh\obj\Debug\netcoreapp3.1\DelegateByMosh.csproj.CoreCompileInputs.cache
+D:\C#9\DelegateByMosh\DelegateByMosh\obj\Debug\netcoreapp3.1\DelegateByMosh.dll
+D:\C#9\DelegateByMosh\DelegateByMosh\obj\Debug\netcoreapp3.1\DelegateByMosh.pdb
+D:\C#9\DelegateByMosh\DelegateByMosh\obj\Debug\netcoreapp3.1\DelegateByMosh.genruntimeconfig.cache
