@@ -1,5 +1,5 @@
 # DelegateByMosh
-Delegate is an object that knows how to call a method, Referrance to a method
+Delegate is an object that knows how to call a method also can be known as Referrance to a method
 
 System.Action<> // pointer to a method that return void
 
