@@ -5,4 +5,4 @@ System.Action<> // pointer to a method that return void
 
 System.Func<> // points to a method that return value 
 
-Predicate<> //Special case from func that return bool if object meets the criteria
+Predicate<> //Special case from System.Func<T,bool> that return bool if object meets the criteria
